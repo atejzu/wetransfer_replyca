@@ -15,13 +15,6 @@ A responsive **frontend-only** clone of the WeTransfer login system, including *
 
 ---
 
-## 📸 Preview
-
-<img src="screenshot-login.png" width="600"/>
-<img src="screenshot-register.png" width="600"/>
-
----
-
 ## 🚀 How It Works
 
 This is a **static project** — there's no backend functionality. All button actions trigger **SweetAlert2 modals**, simulating success or failure messages. Useful for UI/UX practice and frontend demonstrations.
@@ -35,8 +28,5 @@ This is a **static project** — there's no backend functionality. All button ac
 - JavaScript (Vanilla)  
 - [SweetAlert2](https://sweetalert2.github.io/) for modal alerts
 
----
-
-## 📂 Folder Structure
 
 
